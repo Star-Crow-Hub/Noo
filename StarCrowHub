@@ -1,2 +1,2 @@
 --Memaybeo
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/f839826919ec423285d515aef8082dce2a756a907d8e7931c3c05d987bdf20e1/download"))()
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/77d58804ef994bc2b7a7ecf2b43598d1b061a2b6fd00a0d945b72a8dc8c4fa9d/download"))()
