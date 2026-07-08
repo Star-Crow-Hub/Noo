@@ -1,2 +1,1 @@
-cặc cha mày bớt soi
 loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/f839826919ec423285d515aef8082dce2a756a907d8e7931c3c05d987bdf20e1/download"))()
